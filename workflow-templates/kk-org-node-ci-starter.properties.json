@@ -1,7 +1,7 @@
 {
   "name": "KodeKloud Organization Workflow",
   "description": "KodeKloud Organization NodeJS Init CI starter workflow.",
-  "iconName": "example-icon",
+  "iconName": "kode-kloud-icon",
   "categories": [
       "NPM Config"
   ],
