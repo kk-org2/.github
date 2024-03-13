@@ -1,4 +1,4 @@
-![KodeKloud-Logo](kk-logo.png)
+![KodeKloud-Logo](https://github.com/kk-org2/.github/assets/28925814/93b41673-b584-4260-a937-8ec6281b10ee)
 
 # kk-demo-org
 This document provides an overview of the project structure, conventions, and how to contribute.
